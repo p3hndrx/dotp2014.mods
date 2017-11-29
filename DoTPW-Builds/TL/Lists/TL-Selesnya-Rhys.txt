@@ -1,0 +1,46 @@
+1	Ajani, Caller of the Pride
+1	Arctic Flats
+1	Awakening Zone
+1	Blade Splicer
+1	Brindle Shoat
+1	Chatter of the Squirrel
+1	Dreampod Druid
+1	Druid's Deliverance
+1	Earthcraft
+1	Elephant Guide
+1	Elfhame Palace
+1	Evolving Wilds
+1	Fists of Ironwood
+4	Forest
+1	Grasslands
+1	Graypelt Refuge
+1	Griffin Guide
+1	Growth Spasm
+1	Intangible Virtue
+1	Kazandu Tuskcaller
+1	Luminarch Ascension
+1	Martial Coup
+1	Master's Call
+1	Patrol Signaler
+4	Plains
+1	Precinct Captain
+1	Presence of Gond
+1	Promise of Bunrei
+1	Raise the Alarm
+1	Razorverge Thicket
+1	Rhys the Redeemed
+1	Rootborn Defenses
+1	Selesnya Charm
+1	Selesnya Guildgate
+1	Selesnya Sanctuary
+1	Spawnwrithe
+1	Squirrel Nest
+1	Stirring Wildwood
+1	Sundering Growth
+1	Sunpetal Grove
+1	Temple Garden
+1	Terramorphic Expanse
+1	Twilight Drover
+1	Whispersilk Cloak
+
+

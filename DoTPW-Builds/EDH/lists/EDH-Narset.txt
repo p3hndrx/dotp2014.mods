@@ -1,0 +1,79 @@
+1 Narset, Enlightened Master
+1 Angelic Destiny
+1 Spectra Ward
+1 Eldrazi Conscription
+1 Path To Exile
+1 Swords To Plowshares
+1 Lightning Helix
+1 Detention Sphere
+1 Oblivion Ring
+1 Wrath Of God
+1 Supreme Verdict
+1 Warleader's Helix
+1 Beacon Of Destruction
+1 Mindblaze
+1 Armageddon
+1 Ravages Of War
+1 Catastrophe
+1 Cataclysm
+1 Time Warp
+1 Time Stretch
+1 Beacon Of Tomorrows
+1 Waves Of Aggression
+1 Seize The Day
+1 Walk The Aeons
+1 World At War
+1 Savage Beating
+1 Mystical Tutor
+1 Personal Tutor
+1 Enlightened Tutor
+1 Long-Term Plans
+1 Ancestral Knowledge
+1 Mana Drain
+1 Force Of Will
+1 Decree Of Silence
+1 Control Magic
+1 Treachery
+1 Bribery
+1 Acquire
+1 Omniscience
+1 Lightning Greaves
+1 Epic Experiment
+1 Planar Portal
+1 Scroll Rack
+1 Sunforger
+1 Proteus Staff
+1 Mana Severance
+1 Sol Ring
+1 Mana Vault
+1 Coalition Relic
+1 Basalt Monolith
+1 Grim Monolith
+1 Lotus Petal
+1 Jace, The Mind Sculptor
+1 Ral Zarek
+1 Ajani Vengeant
+1 Elspeth, Sun's Champion
+1 Sarkhan, The Dragonspeaker
+1 City Of Brass
+1 Mana Confluence
+1 Command Tower
+1 Grand Coliseum
+1 Gemstone Mine
+1 Scalding Tarn
+1 Arid Mesa
+1 Flooded Strand
+1 Tundra
+1 Plateau
+1 Volcanic Island
+1 Sacred Foundry
+1 Hallowed Fountain
+1 Steam Vents
+1 Sulfur Falls
+1 Glacial Fortress
+1 Cascade Bluffs
+1 Mystic Gate
+1 Vivid Creek
+1 Vivid Crag
+1 Vivid Meadow
+6 Plains

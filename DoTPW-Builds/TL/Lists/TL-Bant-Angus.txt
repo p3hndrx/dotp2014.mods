@@ -1,0 +1,45 @@
+1	Angelsong
+1	Bant Charm
+1	Breeding Pool
+1	Command Tower
+1	Condemn
+1	Constant Mists
+1	Dawn Charm
+1	Dictate of Kruphix
+1	Elixir of Immortality
+1	Eternal Witness
+1	Feldon's Cane
+1	Flooded Strand
+3	Forest
+1	Ghostly Prison
+1	Hallowed Fountain
+1	Howling Mine
+3	Island
+1	Isochron Scepter
+1	Jace Beleren
+1	Kami of the Crescent Moon
+1	Life from the Loam
+1	Lightning Greaves
+1	Lonely Sandbar
+1	Minamo, School at Water's Edge
+1	Misty Rainforest
+1	Moment's Peace
+1	Path to Exile
+1	Peace Talks
+1	Peacekeeper
+3	Plains
+1	Planar Collapse
+1	Preordain
+1	Propaganda
+1	Rites of Flourishing
+1	Seaside Citadel
+1	Secluded Steppe
+1	Snapcaster Mage
+1	Solitary Confinement
+1	Swords to Plowshares
+1	Tangle
+1	Temple Garden
+1	Tranquil Thicket
+1	Windswept Heath
+
+

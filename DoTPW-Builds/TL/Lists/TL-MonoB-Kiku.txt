@@ -1,0 +1,37 @@
+1	Altar's Reap
+1	Bad Moon
+1	Black Knight
+1	Cabal Interrogator
+1	Cabal Ritual
+1	Dark Ritual
+1	Death Wind
+1	Despise
+1	Dismember
+1	Dusk Urchins
+1	Eternal Thirst
+1	Gatekeeper of Malakir
+1	Geth's Verdict
+1	Hex Parasite
+1	Hymn to Tourach
+1	Hypnotic Specter
+1	Inquisition of Kozilek
+1	Maga, Traitor to Mortals
+1	Malicious Affliction
+1	Night's Whisper
+1	Nyxathid
+1	Phyrexian Arena
+1	Profane Command
+1	Read the Bones
+1	Reanimate
+1	Rogue's Passage
+1	Sign in Blood
+1	Smother
+15	Swamp
+1	Temple of the False God
+1	Tragic Slip
+1	Tribute to Hunger
+1	Ultimate Price
+1	Vampire Hexmage
+1	Vampire Nighthawk
+
+

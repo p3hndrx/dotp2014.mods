@@ -1,0 +1,76 @@
+1 Selvala, Explorer Returned
+1 Joraga Warcaller
+1 Eladamri, Lord of Leaves
+1 Elvish Visionary
+1 Gaddock Teeg
+1 Gaea's Herald
+1 Saffi Eriksdotter
+1 Spirit of the Labyrinth
+1 Dauntless Escort
+1 Elvish Archdruid
+1 Elvish Champion
+1 Elvish Harbinger
+1 Eternal Witness
+1 Ezuri, Renegade Leader
+1 Knight of the Reliquary
+1 Hushwing Gryff
+1 Imperious Perfect
+1 Jagged-Scar Archers
+1 Mirror Entity
+1 Reclamation Sage
+1 Timberwatch Elf
+1 Wood Elves
+1 Academy Rector
+1 Immaculate Magistrate
+1 Linvala, Keeper of Silence
+1 Oracle of Mul Daya
+1 Solemn Simulacrum
+1 Wirewood Channeler
+1 Archangel of Thune
+1 Reveillark
+1 Seedborn Muse
+1 Soul of Theros
+1 Sun Titan
+1 Avenger of Zendikar
+1 Elesh Norn, Grand Cenobite
+1 Craterhoof Behemoth
+1 Exploration
+1 Sylvan Library
+1 Aura Shards
+1 City of Solitude
+1 Pursuit of Knowledge
+1 Doubling Season
+1 Nissa, Worldwaker
+1 Enlightened Tutor
+1 Path to Exile
+1 Swords to Plowshares
+1 Eladamri's Call
+1 Beast Within
+1 Mercy Killing
+1 Regrowth
+1 Skyshroud Claim
+1 Triumph of the Hordes
+1 Wrath of God
+1 Skullclamp
+1 Sol Ring
+1 Lightning Greaves
+1 Sword of Feast and Famine
+1 Command Tower
+1 Flooded Strand
+11 Forest
+1 Gavony Township
+1 Homeward Path
+1 Marsh Flats
+9 Plains
+1 Reflecting Pool
+1 Savannah
+1 Stirring Wildwood
+1 Strip Mine
+1 Sunpetal Grove
+1 Temple Garden
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wirewood Lodge
+1 Wooded Bastion
+1 Wooded Foothills
+1 Yavimaya Hollow

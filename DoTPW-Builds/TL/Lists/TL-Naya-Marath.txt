@@ -1,0 +1,48 @@
+1 Apocalypse Hydra
+1 Avacyn's Pilgrim
+1 Banishing Light
+1 Behemoth Sledge
+1 Berserk
+1 Brimstone Volley
+1 Chord of Calling
+1 Clifftop Retreat
+1 Colossal Might
+1 Courser of Kruphix
+1 Druid of the Anima
+1 Elvish Mystic
+1 Farseek
+1 Fauna Shaman
+1 Fleecemane Lion
+3 Forest
+1 Genesis Hydra
+1 Grove of the Guardian
+1 Hooded Hydra
+1 Jungle Shrine
+1 Kessig Wolf Run
+1 Lightning Bolt
+1 Mayor of Avabruck
+1 Mistcutter Hydra
+1 Mizzium Mortars
+1 Mul Daya Channelers
+1 Nyx-Fleece Ram
+1 Raging Ravine
+1 Rampant Growth
+1 Rancor
+1 Red Sun's Zenith
+1 Rootbound Crag
+1 Sacred Foundry
+1 Savageborn Hydra
+1 Scavenging Ooze
+1 Sheltered Aerie
+1 Slayers' Stronghold
+1 Stomping Ground
+1 Strangleroot Geist
+1 Sunpetal Grove
+1 Taurean Mauler
+1 Temple Garden
+1 Temple of Abandon
+1 Temple of Plenty
+1 Trace of Abundance
+1 Unflinching Courage
+1 Zhur-Taa Druid
+

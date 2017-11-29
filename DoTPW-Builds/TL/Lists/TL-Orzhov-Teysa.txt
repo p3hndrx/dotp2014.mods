@@ -1,0 +1,44 @@
+1	Ashnod's Altar
+1	Blasting Station
+1	Blind Obedience
+1	Blood Artist
+1	Command Tower
+1	Condemn
+1	Darkest Hour
+1	Enlightened Tutor
+1	Evolving Wilds
+1	Gather the Townsfolk
+1	Godless Shrine
+1	Intangible Virtue
+1	Isolated Chapel
+1	Lightning Greaves
+1	Lingering Souls
+1	Martial Coup
+1	Mentor of the Meek
+1	Midnight Haunting
+1	Mortician Beetle
+1	Mortify
+1	Oblivion Ring
+6	Plains
+1	Prison Term
+1	Promise of Bunrei
+1	Reassembling Skeleton
+1	Sign in Blood
+1	Skirsdag High Priest
+1	Smother
+4	Swamp
+1	Swiftfoot Boots
+1	Tainted Field
+1	Temple of Silence
+1	Terramorphic Expanse
+1	Teysa, Orzhov Scion
+1	Thraben Doomsayer
+1	Tragic Slip
+1	Twilight Drover
+1	Unmake
+1	Unruly Mob
+1	Vault of the Archangel
+1	Viscera Seer
+1	Xathrid Necromancer
+
+

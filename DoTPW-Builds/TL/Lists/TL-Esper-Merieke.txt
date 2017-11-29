@@ -1,0 +1,48 @@
+1	Anticipate
+1	Cloudshift
+1	Counterspell
+1	Cyclonic Rift
+1	Dimir Signet
+1	Disperse
+1	Drowned Catacomb
+1	Duress
+1	Fatespinner
+1	Ghostly Prison
+1	Glacial Fortress
+1	Godless Shrine
+1	Grand Abolisher
+1	Halimar Depths
+1	Hallowed Fountain
+1	Hidden Strings
+1	Inquisition of Kozilek
+2	Island
+1	Isolated Chapel
+1	Jace Beleren
+1	Lightning Greaves
+1	Minamo, School at Water's Edge
+1	Mistveil Plains
+1	Momentary Blink
+1	Mystical Tutor
+1	Negate
+1	Oblivion Ring
+1	Orzhov Signet
+2	Plains
+1	Psychic Rebuttal
+1	Refocus
+1	Reliquary Tower
+1	Render Silent
+1	Ruinous Path
+1	Scatter to the Winds
+1	Seachrome Coast
+1	Sigil Tracer
+1	Snapcaster Mage
+1	Stonybrook Angler
+1	Stonybrook Banneret
+2	Swamp
+1	Swords to Plowshares
+1	Thassa, God of the Sea
+1	Vedalken AEthermage
+1	Vivid Creek
+1	Watery Grave
+
+

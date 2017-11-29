@@ -1,0 +1,40 @@
+1	Abrupt Decay
+1	Bile Blight
+1	Bloodghast
+1	Bojuka Bog
+1	Command Tower
+1	Curse of Predation
+1	Deathrite Shaman
+1	Dismember
+1	Dreg Mangler
+1	Duress
+3	Forest
+1	Gaze of Granite
+1	Go for the Throat
+1	Inquisition of Kozilek
+1	Life/Death
+1	Llanowar Wastes
+1	Maelstrom Pulse
+1	Noxious Revival
+1	Oran-Rief, the Vastwood
+1	Overgrown Tomb
+1	Pernicious Deed
+1	Pharika, God of Affliction
+1	Polluted Delta
+1	Rancor
+1	Skullbriar, the Walking Grave
+1	Slaughter Pact
+1	Smother
+1	Sudden Spoiling
+4	Swamp
+1	Temple of Malady
+1	Thoughtseize
+1	Twilight Mire
+1	Ulcerate
+1	Unearth
+1	Urborg, Tomb of Yawgmoth
+1	Verdant Catacombs
+1	Wooded Foothills
+1	Woodland Cemetery
+
+

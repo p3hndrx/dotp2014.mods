@@ -1,0 +1,91 @@
+1 Lazav, Dimir Mastermind
+1 Clever Impersonator
+1 Consecrated Sphinx
+1 Dark Confidant
+1 Disciple of Deceit
+1 Ink-Eyes, Servant of Oni
+1 Invisible Stalker
+1 Jace, Vryn's Prodigy
+1 King Macar, the Gold-Cursed
+1 Mirko Vosk, Mind Drinker
+1 Phyrexian Metamorph
+1 Rune-Scarred Demon
+1 Shadowmage Infiltrator
+1 Silumgar, the Drifting Death
+1 Snapcaster Mage
+1 Trinket Mage
+1 True-Name Nemesis
+1 Wrexial, the Risen Deep
+1 Counterspell
+1 Cryptic Command
+1 Cyclonic Rift
+1 Fact or Fiction
+1 Force of Will
+1 Go for the Throat
+1 Hero's Downfall
+1 Mana Drain
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Pongify
+1 Rapid Hybridization
+1 Spell Crumple
+1 Stifle
+1 Vampiric Tutor
+1 Black Sun's Zenith
+1 Bribery
+1 Damnation
+1 Demonic Tutor
+1 Mind Grind
+1 Reanimate
+1 Toxic Deluge
+1 Traumatize
+1 Yawgmoth's Will
+1 Bitterblossom
+1 Necromancy
+1 Necropotence
+1 Phyrexian Arena
+1 Sphinx's Tutelage
+1 Ashiok, Nightmare Weaver
+1 Jace, Memory Adept
+1 Tezzeret the Seeker
+1 Tezzeret, Agent of Bolas
+1 Darksteel Ingot
+1 Dimir Signet
+1 Expedition Map
+1 Fireshrieker
+1 Lightning Greaves
+1 Masterwork of Ingenuity
+1 Mindcrank
+1 Sensei's Divining Top
+1 Sol Ring
+1 Sword of Body and Mind
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sword of Light and Shadow
+1 Talisman of Dominance
+1 Umezawa's Jitte
+1 Academy Ruins
+1 Ancient Tomb
+1 Bojuka Bog
+1 Cabal Coffers
+1 Cephalid Coliseum
+1 Creeping Tar Pit
+1 Deserted Temple
+1 Drowned Catacomb
+1 Inkmoth Nexus
+6 Island
+1 Maze of Ith
+1 Nephalia Drownyard
+1 Polluted Delta
+1 Reliquary Tower
+1 Seat of the Synod
+1 Strip Mine
+1 Sunken Ruins
+5 Swamp
+1 Tainted Isle
+1 Thespian's Stage
+1 Tolaria West
+1 Underground River
+1 Urborg, Tomb of Yawgmoth
+1 Vault of Whispers
+1 Watery Grave

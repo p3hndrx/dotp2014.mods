@@ -1,0 +1,99 @@
+1 All Is Dust
+1 Bitter Ordeal
+1 Buried Alive
+1 Damnation
+1 Demonic Tutor
+1 Replenish
+1 Revoke Existence
+1 Supreme Verdict
+1 Terminus
+1 Vindicate
+1 Windfall
+1 Arcane Denial
+1 Cyclonic Rift
+1 Disenchant
+1 Enlightened Tutor
+1 Entomb
+1 Fact or Fiction
+1 Mana Drain
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Pact of Negation
+1 Spell Crumple
+1 Vampiric Tutor
+1 Animate Dead
+1 Dance of the Dead
+1 Detention Sphere
+1 Exquisite Blood
+1 Ghostly Prison
+1 Greater Auramancy
+1 Karmic Justice
+1 Leyline of the Void
+1 No Mercy
+1 Oblivion Ring
+1 Painful Quandary
+1 Phyrexian Arena
+1 Propaganda
+1 Rhystic Study
+1 Sanguine Bond
+1 Sphere of Safety
+1 Tezzeret the Seeker
+1 Academy Ruins
+1 Adarkar Wastes
+1 Ancient Tomb
+1 Arcane Sanctum
+1 Cavern of Souls
+1 Caves of Koilos
+1 City of Brass
+1 Command Tower
+1 Darkwater Catacombs
+1 Drowned Catacomb
+1 Flooded Strand
+1 Glacial Fortress
+1 Godless Shrine
+1 Hallowed Fountain
+1 Island
+1 Isolated Chapel
+1 Marsh Flats
+1 Plains
+1 Polluted Delta
+1 Reflecting Pool
+1 Reliquary Tower
+1 River of Tears
+1 Scrubland
+1 Skycloud Expanse
+1 Snow-Covered Island
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
+1 Strip Mine
+1 Sunken Ruins
+1 Swamp
+1 Underground River
+1 Urborg, Tomb of Yawgmoth
+1 Volrath's Stronghold
+1 Watery Grave
+1 Academy Rector
+1 Consecrated Sphinx
+1 Disciple of the Vault
+1 Magister Sphinx
+1 Phyrexian Metamorph
+1 Sphinx of the Steel Wind
+1 Sun Titan
+1 Wurmcoil Engine
+1 Azorius Signet
+1 Chromatic Lantern
+1 Coalition Relic
+1 Crucible of Worlds
+1 Dimir Signet
+1 Dispeller's Capsule
+1 Grim Monolith
+1 Helm of Obedience
+1 Mana Vault
+1 Orzhov Signet
+1 Sculpting Steel
+1 Sensei's Divining Top
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Progress
+1 Thran Dynamo
+1 Sharuum the Hegemon

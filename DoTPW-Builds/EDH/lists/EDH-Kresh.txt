@@ -1,0 +1,83 @@
+1 Kresh the Bloodbraided
+1 Ancient Tomb
+1 Blood Crypt
+1 Command Tower
+1 Evolving Wilds
+7 Forest
+1 Kessig Wolf Run
+3 Mountain
+1 Overgrown Tomb
+1 Reflecting Pool
+1 Reliquary Tower
+1 Rogue's Passage
+1 Rootbound Crag
+1 Savage Lands
+1 Stomping Ground
+1 Strip Mine
+10 Swamp
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Transguild Promenade
+1 Vivid Crag
+1 Vivid Grove
+1 Vivid Marsh
+1 Woodland Cemetery
+1 Abyssal Gatekeeper
+1 Artisan of Kozilek
+1 Ashling, the Extinguisher
+1 Avatar of Woe
+1 Braids, Cabal Minion
+1 Butcher of Malakir
+1 Corpsejack Menace
+1 Fleshbag Marauder
+1 Force of Savagery
+1 Goblin Sappers
+1 Magma Phoenix
+1 Master of Cruelties
+1 Nova Chaser
+1 Ogre Marauder
+1 Phyrexian Dreadnought
+1 Phyrexian Obliterator
+1 Sakura-Tribe Elder
+1 Savra, Queen of the Golgari
+1 Sheoldred, Whispering One
+1 Slum Reaper
+1 Solemn Simulacrum
+1 Vorinclex, Voice of Hunger
+1 Worldspine Wurm
+1 Wurmcoil Engine
+1 Yavimaya Elder
+1 Chromatic Lantern
+1 Darksteel Plate
+1 Lightning Greaves
+1 Mage Slayer
+1 Mimic Vat
+1 Nim Deathmantle
+1 Phyrexian Altar
+1 Sol Ring
+1 Swiftfoot Boots
+1 Whispersilk Cloak
+1 Cultivate
+1 Demonic Tutor
+1 Farseek
+1 Fling
+1 Flowstone Slide
+1 Genesis Wave
+1 Go for the Throat
+1 Kodama's Reach
+1 Lavalanche
+1 Plague Wind
+1 Praetor's Counsel
+1 Putrefy
+1 Soul's Fire
+1 Terminate
+1 Tooth and Nail
+1 Tribute to Hunger
+1 Sorin Markov
+1 Asceticism
+1 Attrition
+1 Deadbridge Chant
+1 Death's Presence
+1 Epic Proportions
+1 Grave Pact
+1 Primal Rage

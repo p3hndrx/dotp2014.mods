@@ -1,0 +1,54 @@
+1	Apostle's Blessing
+1	Battlefield Forge
+1	Benevolent Bodyguard
+1	Boros Charm
+1	Boros Guildgate
+1	Brimaz, King of Oreskos
+1	Brute Force
+1	Clifftop Retreat
+1	Command Tower
+1	Council's Judgment
+1	Defiant Strike
+1	Dragon Mantle
+1	Eiganjo Castle
+1	Emerge Unscathed
+1	Ephemeral Shields
+1	Hordeling Outburst
+1	Kor Haven
+1	Lightning Bolt
+1	Lightning Helix
+1	Martial Glory
+1	Midnight Haunting
+1	Monastery Mentor
+1	Monastery Swiftspear
+1	Mother of Runes
+4	Mountain
+1	Myth Realized
+1	Oblation
+5	Plains
+1	Psychotic Fury
+1	Raise the Alarm
+1	Sacred Foundry
+1	Secure the Wastes
+1	Shelter
+1	Sunhome, Fortress of the Legion
+1	Swords to Plowshares
+1	Temple of Triumph
+1	Tempt with Vengeance
+1	Titan's Strength
+1	Valorous Stance
+1	Wear / Tear
+1	Wind-Scarred Crag
+1	Young Pyromancer
+
+Sideboard: 
+1	Absolute Grace
+1	Dragon's Claw
+1	Mizzium Mortars
+1	Nevermore
+1	Pyroblast
+1	Rest in Peace
+1	Scald
+1	Vandalblast
+1	Volcanic Fallout
+1	Wing Shards

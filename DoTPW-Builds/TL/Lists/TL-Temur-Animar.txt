@@ -1,0 +1,52 @@
+1	Animist's Awakening
+1	Apocalypse Hydra
+1	Aqueous Form
+1	Beastmaster Ascension
+1	Birds of Paradise
+1	Blighted Woodland
+1	Chromatic Lantern
+1	Command Tower
+1	Desolate Lighthouse
+1	Elvish Mystic
+6	Forest
+1	Frontier Bivouac
+1	Genesis Hydra
+1	Hardened Scales
+1	Hindervines
+1	Hinterland Harbor
+1	Hooded Hydra
+1	Hurricane
+3	Island
+1	Llanowar Elves
+1	Mistcutter Hydra
+3	Mountain
+1	Nimbus Swimmer
+1	Oran-Rief, the Vastwood
+1	Preordain
+1	Primal Rage
+1	Primordial Hydra
+1	Protean Hydra
+1	Rattleclaw Mystic
+1	Renegade Krasis
+1	Rootbound Crag
+1	Savageborn Hydra
+1	Solidarity of Heroes
+1	Sylvan Caryatid
+1	Temur Ascendancy
+1	Temur Battle Rage
+1	Vastwood Hydra
+1	Vorel of the Hull Clade
+1	Worldly Tutor
+1	Zameck Guildmage
+
+Sideboard: 
+1	Anger of the Gods
+1	Beast Within
+1	Cyclonic Rift
+1	Domri Rade
+1	Elixir of Immortality
+1	Mizzium Mortars
+1	Steely Resolve
+1	Tajuru Preserver
+1	Tormod's Crypt
+1	Vexing Shusher

@@ -1,0 +1,47 @@
+1	Banishing Light
+1	Boros Elite
+1	Brave the Elements
+1	Champion of the Parish
+1	Crusade
+1	Devouring Light
+1	Doomed Traveler
+1	Feat of Resistance
+1	Gather the Townsfolk
+1	Gods Willing
+1	God-Favored General
+1	Guardians' Pledge
+1	Herald of Anafenza
+1	Honor of the Pure
+1	Journey to Nowhere
+1	Kjeldoran Outpost
+1	Launch the Fleet
+1	Midnight Haunting
+1	Mirror Entity
+1	Oblivion Ring
+1	Path of Bravery
+15	Plains
+1	Precinct Captain
+1	Raise the Alarm
+1	Rootborn Defenses
+1	Secluded Steppe
+1	Seeker of the Way
+1	Selfless Cathar
+1	Shrine of Loyal Legions
+1	Soul Warden
+1	Soul's Attendant
+1	Thraben Doomsayer
+1	Twilight Drover
+1	Warden of the Beyond
+1	Windbrisk Heights
+
+Sideboard: 
+1	Elixir of Immortality
+1	Grand Abolisher
+1	Hushwing Gryff
+1	Kataki, War's Wage
+1	Kor Firewalker
+1	Leonin Arbiter
+1	Renounce the Guilds
+1	Spirit of the Labyrinth
+1	Stony Silence
+1	Wall of Essence

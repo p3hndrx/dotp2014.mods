@@ -1,0 +1,45 @@
+1	Ajani, Caller of the Pride
+1	Akroan Hoplite
+1	Ash Zealot
+1	Blind Zealot
+1	Blood Crypt
+1	Bloodsoaked Champion
+1	Bloodstained Mire
+1	Clifftop Retreat
+1	Command Tower
+1	Cruel Edict
+1	Dragonskull Summit
+1	Faithless Looting
+1	Figure of Destiny
+1	Frenzied Goblin
+1	Goblin Rabblemaster
+1	Godless Shrine
+1	Isolated Chapel
+1	Jaya Ballard, Task Mage
+1	Lightning Bolt
+1	Lightning Greaves
+1	Mardu Skullhunter
+1	Mentor of the Meek
+6	Mountain
+1	Pack Rat
+2	Plains
+1	Precinct Captain
+1	Rakdos Cackler
+1	Sacred Foundry
+1	Signal Pest
+1	Silverblade Paladin
+1	Sin Collector
+1	Slayers' Stronghold
+1	Smother
+1	Stoneforge Mystic
+1	Swamp
+1	Sword of Feast and Famine
+1	Sword of Fire and Ice
+1	Swords to Plowshares
+1	Tibalt, the Fiend-Blooded
+1	Tormenting Voice
+1	Tymaret, the Murder King
+1	Urborg, Tomb of Yawgmoth
+1	War-Name Aspirant
+
+

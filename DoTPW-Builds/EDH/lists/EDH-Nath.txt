@@ -1,0 +1,87 @@
+1 Nath of the Gilt-Leaf
+1 Chromatic Lantern
+1 Skullclamp
+1 Sol Ring
+1 Relic of Progenitus
+1 Scroll Rack
+1 Acidic Slime
+1 Solemn Simulacrum
+1 nether traitor
+1 Creakwood Liege
+1 Birds of paradise
+1 Elves of Deep Shadow
+1 Eternal Witness
+1 Joraga Warcaller
+1 Myojin of Night's Reach
+1 Oracle of Mul Daya
+1 Priest of Titania
+1 Sadistic Hypnotist
+1 Sakura-Tribe Elder
+1 Archfiend of Depravity
+1 Wood Elves
+1 elvish archdruid
+1 craterhoof behemoth
+1 seedborn muse
+1 Avenger of Zendikar
+1 Fyndhorn Elves
+1 Quirion Elves
+1 Reclamation Sage
+1 Animate Dead
+1 sylvan library
+1 necropotence
+1 Painful Quandary
+1 Phyrexian Arena
+1 waste not
+1 leyline of the void
+1 Beast Within
+1 Go for the Throat
+1 Putrefy
+1 Worldly Tutor
+1 Chord of Calling
+1 Garruk Wildspeaker
+1 Garruk Relentless
+1 Garruk, Apex Predator
+1 Liliana Vess
+1 Sorin Markov
+1 Ashes to Ashes
+1 Damnation
+1 Demonic Tutor
+1 vampiric tutor
+1 Diabolic Intent
+1 Duress
+1 Dread Return
+1 Consuming Vapors
+1 Beacon of Unrest
+1 Mind Rot
+1 Overwhelming Forces
+1 Explosive Vegetation
+1 Gaze of Granite
+1 Green Sun's Zenith
+1 Hymn to Tourach
+1 Death Cloud
+1 Kodama's Reach
+1 Maelstrom Pulse
+1 Recollect
+1 Regrowth
+1 Sever the Bloodline
+1 Skyshroud Claim
+1 Tooth and Nail
+1 Choice of Damnations
+1 Evolving Wilds
+1 Tectonic Edge
+1 Cabal Coffers
+1 Dryad Arbor
+9 Forest
+1 Gilt-Leaf Palace
+1 Golgari Rot Farm
+1 Llanowar Wastes
+1 Mosswort Bridge
+1 Overgrown Tomb
+1 Pendelhaven
+1 Shizo, Death's Storehouse
+10 Swamp
+1 Bojuka bog
+1 Tainted Wood
+1 Strip mine
+1 Twilight Mire
+1 Woodland Cemetery

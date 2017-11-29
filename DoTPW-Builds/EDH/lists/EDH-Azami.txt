@@ -1,0 +1,96 @@
+1 Azami, Lady of Scrolls
+1 Jace, Vryn's Prodigy
+1 Snapcaster Mage
+1 Trinket Mage
+1 Vendilion Clique
+1 Glen Elendra Archmage
+1 Venser, Shaper Savant
+1 Sower of Temptation
+1 Magus of the Future
+1 Metalworker
+1 Phyrexian Metamorph
+1 Consecrated Sphinx
+1 Deadeye Navigator
+1 Duplicant
+1 Palinchron
+1 Pact of Negation
+1 Brainstorm
+1 Flusterstorm
+1 Cyclonic Rift
+1 Mana Drain
+1 Intuition
+1 Force of Will
+1 Cryptic Command
+1 Mystical Tutor
+1 Cunning Wish
+1 Long-Term Plans
+1 Stroke of Genius
+1 Misdirection
+1 Dig Through Time
+1 Personal Tutor
+1 Braingeyser
+1 Merchant Scroll
+1 Transmute Artifact
+1 Fabricate
+1 Mind's Desire
+1 Timetwister
+1 Bribery
+1 Time Spiral
+1 All is Dust
+1 Power Artifact
+1 Rhystic Study
+1 Future Sight
+1 Mind Over Matter
+1 Sensei's Divining Top
+1 Expedition Map
+1 Scroll Rack
+1 Memory Jar
+1 Chrome Mox
+1 Mana Crypt
+1 Mox Opal
+1 Mana Vault
+1 Sol Ring
+1 Grim Monolith
+1 Gilded Lotus
+1 Helm of Awakening
+1 Cloud Key
+1 Extraplanar Lens
+1 Voltaic Key
+1 Staff of Domination
+1 Sculpting Steel
+1 Crucible of Worlds
+1 Jace, the Mind Sculptor
+1 Jace Beleren
+1 Tezzeret the Seeker
+1 Karn Liberated
+1 Misty Rainforest
+1 Scalding Tarn
+1 Flooded Strand
+1 Polluted Delta
+1 Academy Ruins
+1 Ancient Tomb
+1 Boseiju, Who Shelters All
+1 Maze of Ith
+1 Mishra's Workshop
+1 Mutavault
+1 Reliquary Tower
+1 Riptide Laboratory
+1 Strip Mine
+1 Temple of the False God
+1 Thawing Glaciers
+1 Thespian's Stage
+1 Tolaria West
+1 Wasteland
+1 Seat of the Synod
+15 Snow-Covered Island
+Sideboard
+1 Time Stop
+1 Turnabout
+1 Capsize
+1 Twincast
+1 Blue Sun's Zenith
+1 Last Word
+1 Muddle the Mixture
+1 Brain Freeze
+1 Reins of Power
+1 Stifle

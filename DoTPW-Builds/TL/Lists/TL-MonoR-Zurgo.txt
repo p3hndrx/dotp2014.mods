@@ -1,0 +1,36 @@
+1	Adaptive Automaton
+1	Altar of Dementia
+1	Ancient Tomb
+1	Blood Moon
+1	Bloodmark Mentor
+1	Brighthearth Banneret
+1	Browbeat
+1	Chain Lightning
+1	Chaos Warp
+1	Countryside Crusher
+1	Eidolon of the Great Revel
+1	Frenzied Goblin
+1	Goblin Chieftain
+1	Goblin Gaveleer
+1	Goblin Guide
+1	Goblin King
+1	Goblin Piledriver
+1	Goblin Rabblemaster
+1	Goblin Wardriver
+1	Grafted Wargear
+1	Hero's Blade
+1	Konda's Banner
+1	Lightning Bolt
+1	Magus of the Moon
+1	Masterwork of Ingenuity
+16	Mountain
+1	Obsidian Battle-Axe
+1	Ronin Warclub
+1	Shared Animosity
+1	Shrapnel Blast
+1	Smoldering Spires
+1	Tenza, Godo's Maul
+1	War-Name Aspirant
+1	Zurgo Bellstriker
+
+

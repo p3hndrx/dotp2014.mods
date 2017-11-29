@@ -1,0 +1,99 @@
+﻿1 Iroas, God of Victory
+
+
+//Artifact (4)
+1 Crawlspace
+1 Dolmen Gate
+1 Hall of Triumph
+1 Slate of Ancestry
+
+//Creature (32)
+1 Akroan Hoplite
+1 Aurelia, the Warleader
+1 Balefire Liege
+1 Boros Battleshaper
+1 Boros Elite
+1 Boros Reckoner
+1 Boros Swiftblade
+1 Cerodon Yearling
+1 Figure of Destiny
+1 Firemane Avenger
+1 Flame-Kin Zealot
+1 Flowstone Charger
+1 Fortress Cyclops
+1 Foundry Champion
+1 Frontline Medic
+1 Gisela, Blade of Goldnight
+1 Hearthfire Hobgoblin
+1 Hobgoblin Dragoon
+1 Legion Loyalist
+1 Nobilis of War
+1 Ordruun Veteran
+1 Skyknight Legionnaire
+1 Soltari Guerrillas
+1 Spark Trooper
+1 Spitemare
+1 Stun Sniper
+1 Sunhome Enforcer
+1 Sunhome Guildmage
+1 Tajic, Blade of the Legion
+1 Truefire Paladin
+1 Viashino Firstblade
+1 Wojek Halberdiers
+
+//Enchantment (10)
+1 Assemble the Legion
+1 Brave the Sands
+1 Cathars' Crusade
+1 Crackdown
+1 Gleam of Battle
+1 Glory of Warfare
+1 In the Web of War
+1 Legion's Initiative
+1 Marshal's Anthem
+1 Warstorm Surge
+
+//Enchantment Creature (2)
+1 Archetype of Aggression
+1 Archetype of Courage
+
+//Instant (6)
+1 Boros Charm
+1 Captain's Maneuver
+1 Deflecting Palm
+1 Master Warcraft
+1 Savage Beating
+1 War Flare
+
+//Enchantment Artifact (2)
+1 Hammer of Purphoros
+1 Spear of Heliod
+
+//Sorcery (3)
+1 Incite Hysteria
+1 Waves of Aggression
+1 World at War
+
+//Land (40)
+1 Ancient Amphitheater
+1 Battlefield Forge
+1 Clifftop Retreat
+1 Command Tower
+1 Dormant Volcano
+1 Emeria, the Sky Ruin
+1 Flamekin Village
+1 Karoo
+1 Mirrodin's Core
+11 Mountain
+11 Plains
+1 Reflecting Pool
+1 Rugged Prairie
+1 Sacred Foundry
+1 Slayers' Stronghold
+1 Sunhome, Fortress of the Legion
+1 Temple of Triumph
+1 Vivid Crag
+1 Vivid Meadow
+1 Windbrisk Heights
+
+

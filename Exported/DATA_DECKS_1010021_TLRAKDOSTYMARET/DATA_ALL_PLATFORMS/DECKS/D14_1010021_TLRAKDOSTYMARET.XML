@@ -1,0 +1,42 @@
+<DECK uid="1010021" personality="D14_PERSONALITY_TLRAKDOSTYMARET.XML" deck_box_image="D14_1010021_TLRAKDOSTYMARET_DECK_IMAGE" deck_box_image_locked="D14_locked" content_pack="1010" always_available="true" is_black="true" is_red="true" cheat_menu_filter_deck_type="Standard" tus_save_data_id="1010021" ios_id_1="D14_DECK_UNLOCK_1" ios_id_2="D14_DECK_FOIL_1" steam_id_1="213850" steam_id_2="213850" android_id_1="d14_deck_unlock_01" android_id_2="d14_deck_foil_01" cheat_menu_filter_datapool="D14" name_tag="D14_1010021_TLRAKDOSTYMARET" description_tag="D14_1010021_TLRAKDOSTYMARET_DESCRIPTION">
+  <DECKSTATISTICS Size="1" Speed="4" Flex="5" Syn="6" />
+  <CARD name="CEMETERY_REAPER_CW_234070" deckOrderId="0" />
+  <CARD name="STENSIA_BLOODHALL_MM_CW_233244" deckOrderId="1" />
+  <CARD name="MOUNTAIN_MM_CW_397546" deckOrderId="2" />
+  <CARD name="GRAVECRAWLER_337788" deckOrderId="3" />
+  <CARD name="GERALFS_MESSENGER_348993" deckOrderId="4" />
+  <CARD name="BLOOD_CRYPT_MM_CW_97102" deckOrderId="5" />
+  <CARD name="MOGG_WAR_MARSHAL_CW_370547" deckOrderId="6" />
+  <CARD name="CHAOS_WARP_359681" deckOrderId="7" />
+  <CARD name="TYMARET_THE_MURDER_KING_CW_373665" deckOrderId="8" />
+  <CARD name="RAKDOS_CHARM_CW_253590" deckOrderId="9" />
+  <CARD name="BLACK_SUNS_ZENITH_CW_214061" deckOrderId="10" />
+  <CARD name="MAGMA_JET_CW_51180" deckOrderId="11" />
+  <CARD name="HELLSPARK_ELEMENTAL_CW_368477" deckOrderId="12" />
+  <CARD name="DARK_PROPHECY_CW_370596" deckOrderId="13" />
+  <CARD name="SKIRSDAG_HIGH_PRIEST_CW_230794" deckOrderId="14" />
+  <CARD name="TERMINATE_CW_25871" deckOrderId="15" />
+  <CARD name="RAKDOS_GUILDGATE_MM_CW_376465" deckOrderId="16" />
+  <CARD name="FESTERING_NEWT_CW_370772" deckOrderId="17" />
+  <CARD name="PROFANE_COMMAND_CW_397713" deckOrderId="18" />
+  <CARD name="PHYREXIAN_RAGER_CW_393912" deckOrderId="19" />
+  <CARD name="MOUNTAIN_MM_CW_397546" deckOrderId="20" />
+  <CARD name="DRAGONSKULL_SUMMIT_MM_CW_191091" deckOrderId="21" />
+  <CARD name="MOUNTAIN_MM_CW_397546" deckOrderId="22" />
+  <CARD name="BLOODGHAST_337844" deckOrderId="23" />
+  <CARD name="MOUNTAIN_MM_CW_397546" deckOrderId="24" />
+  <CARD name="PACK_RAT_CW_253624" deckOrderId="25" />
+  <CARD name="FESTERING_GOBLIN_359680" deckOrderId="26" />
+  <CARD name="REASSEMBLING_SKELETON_CW_397819" deckOrderId="27" />
+  <CARD name="BLOOD_SCRIVENER_CW_369030" deckOrderId="28" />
+  <CARD name="DRAGONMASTER_OUTCAST_349264" deckOrderId="29" />
+  <CARD name="RAIN_OF_GORE_CW_107358" deckOrderId="30" />
+  <CARD name="HAMMER_OF_PURPHOROS_CW_373587" deckOrderId="31" />
+  <CARD name="MOUNTAIN_MM_CW_397546" deckOrderId="32" />
+  <CARD name="BONFIRE_OF_THE_DAMNED_CW_271095" deckOrderId="33" />
+  <CARD name="NIGHTHOWLER_CW_373564" deckOrderId="34" />
+  <CARD name="BLOOD_ARTIST_CW_240178" deckOrderId="35" />
+  <CARD name="NETHER_TRAITOR_CW_116742" deckOrderId="36" />
+  <CARD name="GO_FOR_THE_THROAT_CW_213799" deckOrderId="37" />
+  <CARD name="MOUNTAIN_MM_CW_397546" deckOrderId="38" />
+</DECK>

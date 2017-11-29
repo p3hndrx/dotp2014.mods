@@ -1,0 +1,45 @@
+1	Adarkar Wastes
+1	Ajani, Caller of the Pride
+1	Azorius Charm
+1	Azorius Guildgate
+1	Brainstorm
+1	Command Tower
+1	Daxos of Meletis
+1	Delver of Secrets
+1	Detention Sphere
+1	Dissolve
+1	Distortion Strike
+1	Ephara's Enlightenment
+1	Feat of Resistance
+1	Gitaxian Probe
+1	Glacial Fortress
+1	Gods Willing
+1	Horribly Awry
+4	Island
+1	Journey to Nowhere
+1	Judge's Familiar
+1	Lightning Greaves
+1	Mana Confluence
+1	Mana Leak
+1	Mana Tithe
+1	Mental Misstep
+1	Oblivion Ring
+1	Pithing Needle
+4	Plains
+1	Preordain
+1	Render Silent
+1	Rhystic Study
+1	Seachrome Coast
+1	Sejiri Refuge
+1	Silkwrap
+1	Sol Ring
+1	Spell Pierce
+1	Steel of the Godhead
+1	Swords to Plowshares
+1	Temple of Enlightenment
+1	Thassa, God of the Sea
+1	Unquestioned Authority
+1	Wall of Denial
+1	Wall of Omens
+
+

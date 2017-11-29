@@ -1,0 +1,37 @@
+1	Black Sun's Zenith
+1	Blood Artist
+1	Blood Crypt
+1	Blood Scrivener
+1	Bloodghast
+1	Bonfire of the Damned
+1	Cemetery Reaper
+1	Chaos Warp
+1	Dark Prophecy
+1	Dragonmaster Outcast
+1	Dragonskull Summit
+1	Festering Goblin
+1	Festering Newt
+1	Geralf's Messenger
+1	Go for the Throat
+1	Gravecrawler
+1	Hammer of Purphoros
+1	Hellspark Elemental
+1	Magma Jet
+1	Mogg War Marshal
+6	Mountain
+1	Nether Traitor
+1	Nighthowler
+1	Pack Rat
+1	Phyrexian Rager
+1	Profane Command
+1	Rain of Gore
+1	Rakdos Charm
+1	Rakdos Guildgate
+1	Reassembling Skeleton
+1	Skirsdag High Priest
+1	Stensia Bloodhall
+10	Swamp
+1	Terminate
+1	Tymaret, the Murder King
+
+

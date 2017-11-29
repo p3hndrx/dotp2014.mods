@@ -1,0 +1,36 @@
+<DECK uid="1010014" personality="D14_PERSONALITY_TLMONOBKIKU.XML" deck_box_image="D14_1010014_TLMONOBKIKU_DECK_IMAGE" deck_box_image_locked="D14_locked" content_pack="1010" always_available="true" is_black="true" cheat_menu_filter_deck_type="Standard" tus_save_data_id="1010014" ios_id_1="D14_DECK_UNLOCK_1" ios_id_2="D14_DECK_FOIL_1" steam_id_1="213850" steam_id_2="213850" android_id_1="d14_deck_unlock_01" android_id_2="d14_deck_foil_01" cheat_menu_filter_datapool="D14" name_tag="D14_1010014_TLMONOBKIKU" description_tag="D14_1010014_TLMONOBKIKU_DESCRIPTION">
+  <DECKSTATISTICS Size="2" Speed="3" Flex="4" Syn="1" />
+  <CARD name="KIKU_NIGHTS_FLOWER_CW_78962" deckOrderId="0" />
+  <CARD name="TRAGIC_SLIP_CW_380221" deckOrderId="1" />
+  <CARD name="MAGA_TRAITOR_TO_MORTALS_CW_88802" deckOrderId="2" />
+  <CARD name="ALTARS_REAP_CW_382213" deckOrderId="3" />
+  <CARD name="DARK_RITUAL_MM_CW_3285" deckOrderId="4" />
+  <CARD name="ETERNAL_THIRST_CW_383234" deckOrderId="5" />
+  <CARD name="NIGHTS_WHISPER_CW_380191" deckOrderId="6" />
+  <CARD name="CABAL_RITUAL_MM_CW_30564" deckOrderId="7" />
+  <CARD name="ULTIMATE_PRICE_CW_253538" deckOrderId="8" />
+  <CARD name="INQUISITION_OF_KOZILEK_CW_382187" deckOrderId="9" />
+  <CARD name="TRIBUTE_TO_HUNGER_CW_227064" deckOrderId="10" />
+  <CARD name="HEX_PARASITE_CW_218008" deckOrderId="11" />
+  <CARD name="DUSK_URCHINS_CW_146002" deckOrderId="12" />
+  <CARD name="VAMPIRE_NIGHTHAWK_369527" deckOrderId="13" />
+  <CARD name="VAMPIRE_HEXMAGE_CW_192232" deckOrderId="14" />
+  <CARD name="HYMN_TO_TOURACH_CW_1851" deckOrderId="15" />
+  <CARD name="PROFANE_COMMAND_CW_397713" deckOrderId="16" />
+  <CARD name="BAD_MOON_CW_1144" deckOrderId="17" />
+  <CARD name="ROGUES_PASSAGE_MM_CW_380234" deckOrderId="18" />
+  <CARD name="REANIMATE_348961" deckOrderId="19" />
+  <CARD name="PHYREXIAN_ARENA_CW_209132" deckOrderId="20" />
+  <CARD name="DESPISE_CW_233043" deckOrderId="21" />
+  <CARD name="SIGN_IN_BLOOD_349842" deckOrderId="22" />
+  <CARD name="NYXATHID_CW_186616" deckOrderId="23" />
+  <CARD name="GATEKEEPER_OF_MALAKIR_CW_185698" deckOrderId="24" />
+  <CARD name="CABAL_INTERROGATOR_CW_39750" deckOrderId="25" />
+  <CARD name="HYPNOTIC_SPECTER_345373" deckOrderId="26" />
+  <CARD name="DISMEMBER_CW_230082" deckOrderId="27" />
+  <CARD name="READ_THE_BONES_CW_373725" deckOrderId="28" />
+  <CARD name="GETHS_VERDICT_CW_214376" deckOrderId="29" />
+  <CARD name="BLACK_KNIGHT_369530" deckOrderId="30" />
+  <CARD name="DEATH_WIND_CW_394531" deckOrderId="31" />
+  <CARD name="TEMPLE_OF_THE_FALSE_GOD_MM_CW_44336" deckOrderId="32" />
+</DECK>

@@ -1,0 +1,58 @@
+1	Beast Within
+1	Birds of Paradise
+1	Blue Sun's Zenith
+1	Braingeyser
+1	Breeding Pool
+1	Capsize
+1	Command Tower
+1	Coretapper
+1	Cyclonic Rift
+1	Everflowing Chalice
+1	Explore
+1	Flooded Grove
+1	Flooded Strand
+3	Forest
+1	Gilder Bairn
+1	Gyre Sage
+1	Hinterland Harbor
+3	Island
+1	Jace Beleren
+1	Jinxed Choker
+1	Joraga Treespeaker
+1	Llanowar Reborn
+1	Lonely Sandbar
+1	Lorescale Coatl
+1	Magistrate's Scepter
+1	Misty Rainforest
+1	Paradise Mantle
+1	Pentad Prism
+1	Phantasmal Image
+1	Reflecting Pool
+1	Sage of Hours
+1	Scavenging Ooze
+1	Scroll Rack
+1	Sensei's Divining Top
+1	Shrine of Burning Rage
+1	Spike Feeder
+1	Sword of Feast and Famine
+1	Tangle Wire
+1	Tolaria West
+1	Trade Secrets
+1	Trinket Mage
+1	Tropical Island
+1	Trygon Predator
+1	Verdant Catacombs
+1	Vorel of the Hull Clade
+1	Yavimaya Coast
+
+Sideboard: 
+1	Cold-Eyed Selkie
+1	Condescend
+1	Counterspell
+1	Elixir of Immortality
+1	Glaring Spotlight
+1	Hinder
+1	Lightning Greaves
+1	Loaming Shaman
+1	Pact of Negation
+1	Plaxcaster Frogling

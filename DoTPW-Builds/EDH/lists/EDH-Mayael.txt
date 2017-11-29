@@ -1,0 +1,95 @@
+1 Mayael the Anima
+1 Iona, Shield of Emeria
+1 Avacyn, Angel of Hope
+1 Blazing Archon
+1 Sun Titan
+1 Twilight Shepherd
+1 Vengeful Archon
+1 Windbrisk Raptor
+1 Bogardan Hellkite
+1 Hoard-Smelter Dragon
+1 Stalking Vengeance
+1 Conquering Manticore
+1 Magmatic Force
+1 Primeval Titan
+1 Regal Force
+1 Terastodon
+1 Woodfall Primus
+1 Soul of the Harvest
+1 Avenger of Zendikar
+1 Craterhoof Behemoth
+1 Vigor
+1 Sigarda, Host of Herons
+1 Gisela, Blade of Goldnight
+1 Steel Hellkite
+1 Enlightened Tutor
+1 Worldly Tutor
+1 Sylvan Tutor
+1 Tooth and Nail
+1 Green Sun's Zenith
+1 Chord of Calling
+1 Natural Order
+1 Imperial Recruiter
+1 Stoneforge Mystic
+1 Elvish Piper
+1 Eternal Witness
+1 Seedborn Muse
+1 Karmic Guide
+1 Saffi Eriksdotter
+1 Lightning Greaves
+1 Sneak Attack
+1 Ghostway
+1 Burgeoning
+1 Exploration
+1 Nature's Lore
+1 Three Visits
+1 Somberwald Sage
+1 Bloom Tender
+1 Mana Crypt
+1 Sol Ring
+1 Garruk Wildspeaker
+1 Qasali Pridemage
+1 Beast Within
+1 Aura Shards
+1 Swords to Plowshares
+1 Chaos Warp
+1 Mirri's Guile
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Sylvan Library
+1 Greater Good
+1 Winding Canyons
+1 Boseiju, Who Shelters All
+1 Strip Mine
+1 Windbrisk Heights
+1 Mosswort Bridge
+1 High Market
+1 Yavimaya Hollow
+1 Homeward Path
+1 Reliquary Tower
+1 Temple of the False God
+1 Ancient Tomb
+1 Gaea's Cradle
+1 Forbidden Orchard
+1 Exotic Orchard
+1 City of Brass
+1 Command Tower
+1 Reflecting Pool
+1 Arid Mesa
+1 Windswept Heath
+1 Wooded Foothills
+1 Savannah
+1 Plateau
+1 Taiga
+1 Temple Garden
+1 Sacred Foundry
+1 Stomping Ground
+1 Fire-Lit Thicket
+1 Wooded Bastion
+1 Rugged Prairie
+1 Clifftop Retreat
+1 Sunpetal Grove
+1 Rootbound Crag
+3 Forest
+2 Plains
+1 Mountain

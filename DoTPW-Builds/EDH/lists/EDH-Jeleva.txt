@@ -1,0 +1,87 @@
+1 Jeleva, Nephalia's Scourge
+1 Charmbreaker Devils
+1 Echo Mage
+1 Glen Elendra Archmage
+1 Guttersnipe
+1 Melek, Izzet Paragon
+1 Nivix Guildmage
+1 Snapcaster Mage
+1 Brainstorm
+1 Capsize
+1 Chaos Warp
+1 Crosis's Charm
+1 Cryptic Command
+1 Fact or Fiction
+1 Firemind's Foresight
+1 Hatred
+1 Hero's Downfall
+1 Hinder
+1 Insidious Dreams
+1 Lightning Bolt
+1 Long-Term Plans
+1 Mana Drain
+1 Mystical Tutor
+1 Pact of Negation
+1 Rakdos Charm
+1 Reiterate
+1 Reset
+1 Turnabout
+1 Vampiric Tutor
+1 Army of the Damned
+1 Beacon of Unrest
+1 Blatant Thievery
+1 Bribery
+1 Cabal Conditioning
+1 Cruel Ultimatum
+1 Damnation
+1 Decree of Pain
+1 Demonic Tutor
+1 Mana Geyser
+1 Mystic Retrieval
+1 Mystic Speculation
+1 Past in Flames
+1 Personal Tutor
+1 Promise of Power
+1 Rise of the Dark Realms
+1 Rite of Replication
+1 Spelltwine
+1 Stolen Identity
+1 Time Spiral
+1 Time Warp
+1 Yawgmoth's Will
+1 Darksteel Ingot
+1 Lightning Greaves
+1 Mind Stone
+1 Mirari
+1 Scroll Rack
+1 Sol Ring
+1 Strionic Resonator
+1 Surveyor's Scope
+1 Swiftfoot Boots
+1 Wayfarer's Bauble
+1 Badlands
+1 Underground Sea
+1 Volcanic Island
+1 Blood Crypt
+1 Steam Vents
+1 Watery Grave
+1 Arid Mesa
+1 Polluted Delta
+1 Bloodstained Mire
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Scalding Tarn
+1 Command Tower
+1 High Market
+1 Maze of Ith
+1 Bojuka Bog
+1 Riptide Laboratory
+1 Hall of the Bandit Lord
+1 Reflecting Pool
+1 Urborg, Tomb of Yawgmoth
+1 Phyrexian Tower
+1 Strip Mine
+1 Tolaria West
+10 Island
+4 Swamp
+2 Mountain

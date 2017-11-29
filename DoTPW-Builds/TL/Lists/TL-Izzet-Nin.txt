@@ -1,0 +1,50 @@
+1	Ancestral Vision
+1	Arid Mesa
+1	Blistercoil Weird
+1	Bloodstained Mire
+1	Brainstorm
+1	Chain Lightning
+1	Condescend
+1	Daze
+1	Delver of Secrets
+1	Devastating Summons
+1	Disrupting Shoal
+1	Eidolon of the Great Revel
+1	Electrolyze
+1	Epic Experiment
+1	Firestorm
+1	Flooded Strand
+1	Gitaxian Probe
+1	Goblin Guide
+2	Island
+1	Lightning Bolt
+1	Logic Knot
+1	Mana Leak
+1	Misty Rainforest
+1	Monastery Swiftspear
+1	Mountain
+1	Ponder
+1	Preordain
+1	Remand
+1	Repeal
+1	Rift Bolt
+1	Runechanter's Pike
+1	Scalding Tarn
+1	Searing Blaze
+1	Serum Visions
+1	Shard Volley
+1	Shared Discovery
+1	Shivan Reef
+1	Snapcaster Mage
+1	Spellheart Chimera
+1	Steam Vents
+1	Sulfur Falls
+1	Temple of Epiphany
+1	Thought Scour
+1	Tuktuk the Explorer
+1	Vapor Snag
+1	Volcanic Island
+1	Wee Dragonauts
+1	Young Pyromancer
+
+

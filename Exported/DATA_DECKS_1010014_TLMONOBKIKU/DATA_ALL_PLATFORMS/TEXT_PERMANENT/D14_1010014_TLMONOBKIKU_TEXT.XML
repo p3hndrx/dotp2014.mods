@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+    <Author>DotP 2014 Deck Builder</Author>
+    <Created>2015-11-25T16:06:59Z</Created>
+    <Company>
+    </Company>
+  </DocumentProperties>
+  <Worksheet ss:Name="Sheet4">
+    <Table>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">Ident</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Comment</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Master Text</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">French</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Spanish</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">German</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Italian</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">Japanese</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Korean</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Russian</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Portuguese (Brazil)</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">Chinese Simplified</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Chinese Traditional</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">D14_1010014_TLMONOBKIKU</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">PLAYER_NAME_TLMONOBKIKU</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TL-MONOB-KIKU</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>

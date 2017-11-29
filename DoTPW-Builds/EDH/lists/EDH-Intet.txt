@@ -1,0 +1,79 @@
+1	Intet, the Dreamer
+1	Acidic Slime
+1	Alchemist's Refuge
+1	Amulet of Vigor
+1	Archaeomancer
+1	Bestial Menace
+1	Birds of Paradise
+1	Blue Sun's Zenith
+1	Brainstorm
+1	Cancel
+1	Cast Through Time
+1	Chandra, the Firebrand
+1	Chromatic Lantern
+1	City of Brass
+1	Civic Wayfinder
+1	Cold-Eyed Selkie
+1	Collective Voyage
+1	Command Tower
+1	Conjurer's Closet
+1	Contagion Clasp
+1	Counterspell
+1	Deadeye Navigator
+1	Devil's Play
+1	Dispel
+1	Djinn of Wishes
+1	Echo Mage
+1	Evolving Wilds
+1	Fabricate
+8	Forest
+1	Frost Titan
+1	Garruk Wildspeaker
+1	Garruk, Primal Hunter
+1	Green Sun's Zenith
+1	Gruul Turf
+1	Guttersnipe
+1	Harmonize
+1	Hellkite Charger
+1	Increasing Vengeance
+1	Insurrection
+10	Island
+1	It That Betrays
+1	Izzet Guildgate
+1	Jace Beleren
+1	Mizzium Mortars
+1	Momir Vig, Simic Visionary
+8	Mountain
+1	Mystic Retrieval
+1	Nature's Will
+1	Overbeing of Myth
+1	Overrun
+1	Primeval Titan
+1	Quicksilver Amulet
+1	Rampant Growth
+1	Reclaim
+1	Reliquary Tower
+1	Reverberate
+1	Rewind
+1	Rootbound Crag
+1	Runic Repetition
+1	Rupture Spire
+1	Sensei's Divining Top
+1	Shielding Plax
+1	Simic Growth Chamber
+1	Skinshifter
+1	Sol Ring
+1	Solemn Simulacrum
+1	Soul of the Harvest
+1	Swiftfoot Boots
+1	Temporal Mastery
+1	Terastodon
+1	Terramorphic Expanse
+1	Transguild Promenade
+1	Trinket Mage
+1	Vivid Creek
+1	Vivid Grove
+1	Wolfir Silverheart
+1	Worldspine Wurm
+
+

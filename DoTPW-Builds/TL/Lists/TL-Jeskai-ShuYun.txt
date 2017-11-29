@@ -1,0 +1,40 @@
+1	Arc Lightning
+1	Aurelia's Fury
+1	Azorius Chancery
+1	Azorius Guildgate
+1	Battlefield Thaumaturge
+1	Boros Garrison
+1	Boros Guildgate
+1	Brainstorm
+1	Delver of Secrets
+1	Distortion Strike
+1	Echoing Truth
+1	Emerge Unscathed
+1	Gigadrowse
+1	Impulse
+5	Island
+1	Izzet Boilerworks
+1	Izzet Charm
+1	Izzet Guildgate
+1	Lava Spike
+1	Lightning Bolt
+1	Mana Tithe
+1	Monastery Swiftspear
+5	Mountain
+1	Mystic Monastery
+4	Plains
+1	Ponder
+1	Preordain
+1	Pyroclasm
+1	See Beyond
+1	Seeker of the Way
+1	Skullcrack
+1	Staggershock
+1	Swerve
+1	Swords to Plowshares
+1	Turn / Burn
+1	Unsummon
+1	Volcanic Fallout
+1	Wear / Tear
+
+
